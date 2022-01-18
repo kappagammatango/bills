@@ -22,7 +22,6 @@ Proposed by: *President pro tempore wierdo25*
 
 &nbsp;&nbsp;&nbsp; (a) This Bill shall go into effect as an Act of Congress upon the completion of the constitutionally required processes.
 
-
 <br/>
 
 **§ 3. SEVERABILITY**
