@@ -2,7 +2,7 @@
 
 **AN ACT TO ESTABLISH THE DEPARTMENT OF DEFENSE**
 
-Proposed by: *The Dishonorable 1superchris2, Esq*
+Proposed by: *President pro tempore wierdo25*
 
 </div>
 
@@ -141,7 +141,7 @@ Proposed by: *The Dishonorable 1superchris2, Esq*
 
 **CHIEF SPONSOR(S)**:
 
-&nbsp;&nbsp;&nbsp; *The Dishonorable 1superchris2, Esq*
+&nbsp;&nbsp;&nbsp; *The Honorable wierdo25, President pro tempore*
 
 **CO-SPONSOR(S)**:
 
