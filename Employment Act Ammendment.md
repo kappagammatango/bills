@@ -64,6 +64,6 @@ Proposed by: *President pro tempore wierdo25*
 
 **CO-SPONSOR(S)**:
 
+&nbsp;&nbsp;&nbsp; *The Honorable ADMIRAL_RICKY, Speaker pro tempore*
+
 &nbsp;&nbsp;&nbsp; *The Honorable BlueLineEnforcement, Representative*
-
-
