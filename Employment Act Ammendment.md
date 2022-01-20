@@ -1,6 +1,6 @@
 <div align="center">
 
-**AN AMMENDMENT TO THE EMPLOYMENT ACT OF 2022**
+**AN ACT TO DUCT TAPE THE EMPLOYMENT ACT OF 2022**
 
 Proposed by: *President pro tempore wierdo25*
 
@@ -12,19 +12,19 @@ Proposed by: *President pro tempore wierdo25*
 
 **§ 1. TITLE**
 
-&nbsp;&nbsp;&nbsp; (a) This Bill shall be known as the "An Ammendment to the Employment Act of 2022".
+&nbsp;&nbsp;&nbsp; (a) This Act shall be known as the "An Act to Duct Tape the Employment Act of 2022".
 
 <br/>
 
 **§ 2. ENACTMENT INTO LAW**
 
-&nbsp;&nbsp;&nbsp; (a) This Legislation shall go into effect upon the completion of the constitutionally required processes.
+&nbsp;&nbsp;&nbsp; (a) This Act shall go into effect upon the completion of the constitutionally required processes.
 
 <br/>
 
 **§ 3. SEVERABILITY**
 
-&nbsp;&nbsp;&nbsp; (a) Should any part of this Legislation be struck down and/or declared unenforceable, then that part shall be severed with the rest remaining in full force and effect unless all is struck down and/or declared unenforceable.
+&nbsp;&nbsp;&nbsp; (a) Should any part of this Act be struck down and/or declared unenforceable, then that part shall be severed with the rest remaining in full force and effect unless all is struck down and/or declared unenforceable.
 
 <br/>
 
