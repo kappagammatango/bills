@@ -73,3 +73,9 @@ Proposed by: *President pro tempore wierdo25*
 &nbsp;&nbsp;&nbsp; *The Honorbale BlueLineEnforcement, Representative*
 
 &nbsp;&nbsp;&nbsp; *The Honorable GeneralCount, Former Representative*
+
+&nbsp;&nbsp;&nbsp; *Secretary HippoGamingRB, Department of Boating and Waterways*
+
+&nbsp;&nbsp;&nbsp; *Deputy Secretary Slee_20, Department of Transportation*
+
+&nbsp;&nbsp;&nbsp; *Associate Secretary shenning29, Department of Transportation*
