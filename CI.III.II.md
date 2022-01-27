@@ -16,13 +16,13 @@ Proposed by: *President pro tempore wierdo25*
 
 <br/>
 
-**§ 1. SEVERABILITY**
+**§ 2. SEVERABILITY**
 
 &nbsp;&nbsp;&nbsp; (a) Should any part of this Legislation be struck down and/or declared unenforceable, then that part shall be severed with the rest remaining in full force and effect unless all is struck down and/or declared unenforceable.
 
 <br/>
 
-**§ 1. AMENDMENTS**
+**§ 3. AMENDMENTS**
 
 &nbsp;&nbsp;&nbsp; (a) Article I of the State of Firestone Constitution shall be amended.
 
