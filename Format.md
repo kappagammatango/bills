@@ -14,7 +14,7 @@ Proposed by: *President pro tempore wierdo25*
 
 &nbsp;&nbsp;&nbsp; (a) This [Act/Resolution] shall be known as[, and is to be cited as,] the "[Long title]".
 
-&nbsp;&nbsp;&nbsp; (b) This [Act/Resolution] may be cited as the "[Short Name] [Act/Resolution] of 2021".
+&nbsp;&nbsp;&nbsp; (b) This [Act/Resolution] may be cited as the "[Short Name] [Act/Resolution] of 2022".
 
 <br/>
 
@@ -112,7 +112,7 @@ Proposed by: *President pro tempore wierdo25*
 
 **CHIEF SPONSOR(S)**:
 
-&nbsp;&nbsp;&nbsp; *Senator Automationeer, Esq.*
+&nbsp;&nbsp;&nbsp; *wierdo25, President pro tempore*
 
 **CO-SPONSOR(S)**:
 
