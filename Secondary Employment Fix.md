@@ -1,6 +1,6 @@
 <div align="center">
 
-**A CONSTITUTIONAL AMENDMENT TO CI.III.II**
+**SECONDARY EMPLOYMENT FIX**
 
 Proposed by: *President pro tempore wierdo25*
 
@@ -18,7 +18,7 @@ Proposed by: *President pro tempore wierdo25*
 
 **§ 2. DEFINITIONS**
 
-&nbsp;&nbsp;&nbsp; (a) For the purposes of this Act, ‘Employment Act of 2022’ shall be defined as: https://forums.stateoffirestone.com/t/employment-act-of-2022-r/21081
+&nbsp;&nbsp;&nbsp; (a) For the purposes of this Legislation, ‘Employment Act of 2022’ shall be defined as: https://forums.stateoffirestone.com/t/employment-act-of-2022-r/21081
 
 <br/>
 
