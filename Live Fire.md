@@ -42,6 +42,8 @@ Proposed by: *Senator wierdo25 (for himself, and Secretary Mega_Goalie16)*
 
 &nbsp;&nbsp;&nbsp; (b) Live Fire Training start date/times and end date/times shall be documented by each department. All live fire trainings shall have a marked perimeter line that signifies the training area if there are non-participants in the server being utilized. Departments shall ensure that non-participants are not within the the training area and shall be authorized to remove non-participants from the training area. Departments shall conduct the trainings in a server with less than 5 non-participants and shall make a reasonable effort to have the server closed to access by non-participants. The department shall not conduct a training in an area that is occupied, or could potentially be occupied (such as spawnpoints), by non-participants if they are present in the server, or if the server is not closed to non-participants.
 
+&nbsp;&nbsp;&nbsp;  (c) All players assocaiated with a Live Fire Training must show their name at all times while participating in the live fire training.
+
 <br/>
 
 ---
