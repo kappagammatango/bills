@@ -14,7 +14,7 @@ Proposed by: *Senator wierdo25*
 
 &nbsp;&nbsp;&nbsp; (a) This Act shall be known as, and may be cited as, the "Act to Enable the Execution, Hunting, and Transporting of Furries".
 
-&nbsp;&nbsp;&nbsp; (b) This Act may be cited as the "Anti-Furry Act of 2021".
+&nbsp;&nbsp;&nbsp; (b) This Act may be cited as the "Anti-Furry Act of 2025".
 
 <br/>
 
@@ -117,10 +117,10 @@ Proposed by: *Senator wierdo25*
 
 **CHIEF SPONSORS**:
 
-&nbsp;&nbsp;&nbsp; *The Honorable wierdo25, President pro tempore*
+&nbsp;&nbsp;&nbsp; *The Honorable wierdo25, Senator*
 
 **CO-SPONSORS**:
 
-&nbsp;&nbsp;&nbsp; *The Honorable Ash1835, Former Governor*
+&nbsp;&nbsp;&nbsp; **
 
 &nbsp;&nbsp;&nbsp; *Mr RGB_Flames, Citizen*
