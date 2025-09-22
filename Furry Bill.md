@@ -83,9 +83,9 @@ Proposed by: *Senator wierdo25*
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (xi) Chapter 4, Section 7 (Conspiracy to Commit a Crime), whereas the offence(s) being conspired would otherwise be protected by this subsection
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (xii) Chapter 4, Section 7 (Solicitation to Commit a Crime), whereas the offence(s) being solicited would otherwise be protected by this subsection
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (xii) Chapter 4, Section 8 (Solicitation to Commit a Crime), whereas the offence(s) being solicited would otherwise be protected by this subsection
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (xiii) Chapter 4, Section 7 (Aiding and Abetting), whereas the offence(s) being aided/abetted would otherwise be protected by this subsection
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (xiii) Chapter 4, Section 11 (Aiding and Abetting), whereas the offence(s) being aided/abetted would otherwise be protected by this subsection
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (xiv) Chapter 4, Section 10 (Animal Cruelty), whereas such furries are considered animals by any relevant legislation or instrument
 
