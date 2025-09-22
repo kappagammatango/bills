@@ -24,13 +24,13 @@ Proposed by: *President pro tempore wierdo25*
 
 <br/>
 
-**§ 1. SEVERABILITY**
+**§ 3. SEVERABILITY**
 
 &nbsp;&nbsp;&nbsp; (a) Should any part of this Act be struck down and/or declared unenforceable, then that part shall be severed with the rest remaining in full force and effect unless all is struck down and/or declared unenforceable.
 
 <br/>
 
-**§ 1. ENFORCEMENT**
+**§ 4. ENFORCEMENT**
 
 &nbsp;&nbsp;&nbsp; (a) This Act shall be enforced by the Presiding Officers of Congress, defined as the Speaker of the House, Lieutenant Governor, Speaker pro tempore, and President pro tempore.
 
@@ -107,5 +107,6 @@ Proposed by: *President pro tempore wierdo25*
 &nbsp;&nbsp;&nbsp; *wierdo25, President pro tempore*
 
 **CO-SPONSOR(S)**:
+
 
 &nbsp;&nbsp;&nbsp; *Placeholder*
