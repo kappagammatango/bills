@@ -2,7 +2,7 @@
 
 **A BILL TO ENABLE THE EXECUTION, HUNTING, AND TRANSPORTING OF FURRIES**
 
-Proposed by: *wierdo25, President pro tempore*
+Proposed by: *Senator wierdo25*
 
 </div>
 
