@@ -69,7 +69,7 @@ Proposed by: *Senator wierdo25*
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (iv) Chapter 3, Section 5 (Vehicular Assault)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (v) Chapter 3, Section 6 (Grand Theft Auto)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (v) Chapter 3, Section 6 (Grand Theft)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (vi) Chapter 4, Section 1 (Criminal Threats)
 
