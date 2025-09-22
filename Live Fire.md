@@ -1,6 +1,6 @@
 <div align="center">
 
-**LAW ENFORCEMENT TRAINING EXEMPTION ACT**
+**LAW ENFORCEMENT TRAINING ENHANCEMENT ACT**
 
 Proposed by: *Senator wierdo25 (for himself, and Secretary Mega_Goalie16)*
 
@@ -12,7 +12,7 @@ Proposed by: *Senator wierdo25 (for himself, and Secretary Mega_Goalie16)*
 
 **§ 1. TITLE**
 
-&nbsp;&nbsp;&nbsp; (a) This Act shall be known as, and is to be cited as, the "Law Enforcement Training Exemption Act".
+&nbsp;&nbsp;&nbsp; (a) This Act shall be known as, and is to be cited as, the "Law Enforcement Training Enhancement Act".
 
 <br/>
 
