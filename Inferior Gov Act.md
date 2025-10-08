@@ -30,69 +30,27 @@ Proposed by: *Senator wierdo25*
 
 <br/>
 
-**§ 1. ENFORCEMENT**
+**§ 4. ENFORCEMENT**
 
-&nbsp;&nbsp;&nbsp; (a) This Act shall be implemented by the Criminal Code Revision Act Manager and enforced by all Law Enforcement Officers of the State of Firestone.
-
-&nbsp;&nbsp;&nbsp; (a) This Act shall be enforced by all Courts and other Judicial Bodies of the State of Firestone.
-
-&nbsp;&nbsp;&nbsp; (a) This Resolution shall be enforced by the Presiding Officers of Congress, defined as the Speaker of the House, Lieutenant Governor, Speaker pro tempore, and President pro tempore.
-
-&nbsp;&nbsp;&nbsp; (a) This Resolution shall be enforced by the Presiding Officers of the Senate, defined as the Lieutenant Governor and President pro tempore.
-
-&nbsp;&nbsp;&nbsp; (b) No legislation shall be proposed in contravenance of this Resolution.
+&nbsp;&nbsp;&nbsp; (a) This Act shall be enforced by any relevant parties.
 
 <br/>
 
-**§ 1. DEFINITIONS**
+**§ 5. DEFINITIONS**
 
-&nbsp;&nbsp;&nbsp; (a) For the purposes of this [Act/Resolution], the 'Firestone Criminal Code', as described by the [Criminal Code Revision Act (R)](https://forums.stateoffirestone.com/t/12405), shall be defined as: <https://trello.com/b/EGN3OQzQ>
-
-&nbsp;&nbsp;&nbsp; (a) For the purposes of this [Act/Resolution], '[Law name]' shall be defined as: <forum link>
+&nbsp;&nbsp;&nbsp; (a) For the purposes of this Act, "An Act to Authorize Inferior Executives", shall be defined as: https://forums.stateoffirestone.com/t/an-act-to-authorize-inferior-executives/26825.
 
 <br/>
 
-**§ 1. REPEALMENTS**
+**§ 6. AMENDMENTS**
 
-&nbsp;&nbsp;&nbsp; (a) [Law name] shall be repealed in its entirety, and declared null and void.
+&nbsp;&nbsp;&nbsp; (a) Section II, Subsection G of An Act to Authorize Inferior Executives does not currently exist and shall be created.
 
-&nbsp;&nbsp;&nbsp; (a) Section 123(abc) of [Law name] shall be repealed.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (i) Section II, Subsection G of An Act to Authorize Inferior Executives shall state: "Notwithstanding the above, the County Executive shall be able to dismiss, terminate, remove, or otherwise punish or discipline members of their Executive Administration at-will if those members are in positions that meet all the following requirements: [The position] is established by County Legislation, executive order, and/or the County Charter; and [The position] is not within any of the following departments, agencies or offices: The Stapleton County Sheriff's Office, Stapleton County Fire Department, Stapleton County Port Authority and/or Stapleton County District Attorneys Office."
 
-&nbsp;&nbsp;&nbsp; (a) This Act makes no repealments.
+&nbsp;&nbsp;&nbsp; (a) Section III, Subsection G of An Act to Authorize Inferior Executives does not currently exist and shall be created.
 
-<br/>
-
-**§ 1. AMENDMENTS**
-
-&nbsp;&nbsp;&nbsp; (a) Section 123(abc) of [Law name] shall be amended.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (i) Section 123(abc) of [Law name] currently states: "..."
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (ii) Section 123(abc) of [Law name] shall be amended to state: "..."
-
-&nbsp;&nbsp;&nbsp; (a) Chapter 1, Section 1, Subsection a1 of the Firestone Criminal Code shall be amended.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (i) Chapter 1, Section 1, Subsection a1 of the Firestone Criminal Code currently states: "..."
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (ii) Chapter 1, Section 1, Subsection a1 of the Firestone Criminal Code shall be amended to state: "..."
-
-&nbsp;&nbsp;&nbsp; (a) This Act makes no amendments.
-
-<br/>
-
-**§ 1. SECTION**
-
-&nbsp;&nbsp;&nbsp; (a) Subsection
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (i) Sub-subsection
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (ii) Sub-subsection
-
-&nbsp;&nbsp;&nbsp; (b) Subsection
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (i) Sub-subsection
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (ii) Sub-subsection
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (i) Section III, Subsection G of An Act to Authorize Inferior Executives shall state: "Notwithstanding the above, Municipal Mayors shall be able to dismiss, terminate, remove, or otherwise punish or discipline members of their Executive Administration at-will if those members are in positions that meet all the following requirements: [The position] is established by municipal legislation, executive order (or mayoral decree), and/or the Municipalities Charter; and [The position] is not within any of the following departments, agencies or offices: The Municipalities Respective Police Department (Prominence District Police, Arborfield Police Department, Redwood Police Department)."
 
 <br/>
 
@@ -100,7 +58,7 @@ Proposed by: *Senator wierdo25*
 
 <div align="center">
 
-*Respectfully submitted to the [Congress/Senate] of the State of Firestone*
+*Respectfully submitted to the Congress of the State of Firestone*
 
 </div>
 
