@@ -48,7 +48,7 @@ Proposed by: *Senator wierdo25*
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (i) Section II, Subsection G of An Act to Authorize Inferior Executives shall state: "Notwithstanding the above, the County Executive shall be able to dismiss, terminate, remove, or otherwise punish or discipline members of their Executive Administration at-will if those members are in positions that meet all the following requirements: [The position] is established by County Legislation, executive order, and/or the County Charter; and [The position] is not within any of the following departments, agencies or offices: The Stapleton County Sheriff's Office, Stapleton County Fire Department, Stapleton County Port Authority and/or Stapleton County District Attorneys Office."
 
-&nbsp;&nbsp;&nbsp; (a) Section III, Subsection G of An Act to Authorize Inferior Executives does not currently exist and shall be created.
+&nbsp;&nbsp;&nbsp; (b) Section III, Subsection G of An Act to Authorize Inferior Executives does not currently exist and shall be created.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (i) Section III, Subsection G of An Act to Authorize Inferior Executives shall state: "Notwithstanding the above, Municipal Mayors shall be able to dismiss, terminate, remove, or otherwise punish or discipline members of their Executive Administration at-will if those members are in positions that meet all the following requirements: [The position] is established by municipal legislation, executive order (or mayoral decree), and/or the Municipalities Charter; and [The position] is not within any of the following departments, agencies or offices: The Municipalities Respective Police Department (Prominence District Police, Arborfield Police Department, Redwood Police Department)."
 
@@ -72,5 +72,6 @@ Proposed by: *Senator wierdo25*
 
 **CO-SPONSOR(S)**:
 
+&nbsp;&nbsp;&nbsp; *SwedishVic, Representative*
 
 &nbsp;&nbsp;&nbsp; *Placeholder*
