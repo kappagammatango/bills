@@ -2,7 +2,7 @@
 
 **A [ACT/(JOINT|SENATE) RESOLUTION/CONSTITUTIONAL AMENDMENT] TO [...]**
 
-Proposed by: *Senator wierdo25*
+Proposed by: *President pro tempore wierdo25*
 
 </div>
 
@@ -112,9 +112,10 @@ Proposed by: *Senator wierdo25*
 
 **CHIEF SPONSOR(S)**:
 
-&nbsp;&nbsp;&nbsp; *wierdo25, Senator*
+&nbsp;&nbsp;&nbsp; *wierdo25, President pro tempore*
 
 **CO-SPONSOR(S)**:
 
 
 &nbsp;&nbsp;&nbsp; *Placeholder*
+
