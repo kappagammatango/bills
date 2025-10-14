@@ -48,7 +48,7 @@ Proposed by: *President pro tempore wierdo25*
 
 (a1) Weapons trafficking shall be the act of the malicious distribution of firearms, weapons or ammunition to another individual/group in exchange for any form of malicious monetary, social, or political value."
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (ii) Weapons Trafficking shall be a Class C Felony with a punishment of 450 seconds in a correctional facility.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (ii) Weapons Trafficking shall be a Class C Felony with a punishment of 600 seconds in a correctional facility.
 
 <br/>
 
