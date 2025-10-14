@@ -46,7 +46,7 @@ Proposed by: *President pro tempore wierdo25*
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (i) Chapter 5 Section 7 shall state: "(a) The act of trafficking shall be recognized as an unlawful criminal offense within the State of Firestone.
 
-(a1) Weapons trafficking shall be the act of the malicious distribution of firearms, weapons or ammunition to another individual/group in exchange for any form of malicious monetary, social, or political value."
+(a1) Weapons trafficking shall be the act of the intentional, unlawful distribution of firearms, weapons or ammunition to another individual/group."
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (ii) Weapons Trafficking shall be a Class C Felony with a punishment of 600 seconds in a correctional facility.
 
