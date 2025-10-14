@@ -44,7 +44,7 @@ Proposed by: *President pro tempore wierdo25*
 
 &nbsp;&nbsp;&nbsp; (a) Chapter 5 Section 7 shall be added to the Firestone Criminal Code and be named "§7 - Weapons Trafficking".
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (i) Chapter 5 Section 7 shall state: "(a) The act of trafficking shall be recognized as an unlawful criminal offense within the State of Firestone.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (i) Chapter 5 Section 7 shall state: "(a) The act of weapons trafficking shall be recognized as an unlawful criminal offense within the State of Firestone.
 
 (a1) Weapons trafficking shall be the act of the intentional, unlawful distribution of firearms, weapons or ammunition to another individual/group."
 
