@@ -66,3 +66,7 @@ Proposed by: *President pro tempore wierdo25*
 **CHIEF SPONSOR(S)**:
 
 &nbsp;&nbsp;&nbsp; *The Honorable wierdo25, President pro tempore*
+
+**CO-SPONSOR(S)**:
+
+&nbsp;&nbsp;&nbsp; *The Honorable DannyboyJurist, Senator*
