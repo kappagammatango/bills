@@ -35,11 +35,16 @@ Proposed by: *President pro tempore wierdo25*
 
 <br/>
 
-**§ 5. AMENDMENTS**
+**§ 5. ENFORCEMENT**
+
+&nbsp;&nbsp;&nbsp; (a) This Act shall be implemented by the Criminal Code Revision Act Manager and enforced by Court Officials and all Law Enforcement Officers of the State of Firestone.
+
+
+**§ 6. AMENDMENTS**
 
 &nbsp;&nbsp;&nbsp; (a) Chapter 5 Section 7 shall be added to the Firestone Criminal Code and be named "§7 - Weapons Trafficking".
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (i) Chapter 5 Section 7 Subsection shall state: "(a) The act of trafficking shall be recognized as an unlawful criminal offense within the State of Firestone.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (i) Chapter 5 Section 7 shall state: "(a) The act of trafficking shall be recognized as an unlawful criminal offense within the State of Firestone.
 
 (a1) Weapons trafficking shall be the act of the malicious distribution of firearms, weapons or ammunition to another individual/group in exchange for any form of malicious monetary, social, or political value."
 
