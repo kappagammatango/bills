@@ -62,10 +62,8 @@ Proposed by: *President pro tempore wierdo25*
 
 **CHIEF SPONSOR(S)**:
 
-&nbsp;&nbsp;&nbsp; *wierdo25, President pro tempore*
+&nbsp;&nbsp;&nbsp; *The Honorable wierdo25, President pro tempore*
 
 **CO-SPONSOR(S)**:
 
-&nbsp;&nbsp;&nbsp; *SwedishVic, Representative*
-
-&nbsp;&nbsp;&nbsp; *Placeholder*
+&nbsp;&nbsp;&nbsp; *The Honorable FinleyFraser12345, Esq.*
