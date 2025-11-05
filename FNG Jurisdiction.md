@@ -1,6 +1,6 @@
 <div align=center>
   
-**A BILL TO PROTECT GREENDALE**
+**A BILL TO EMPOWER THE NATIONAL GUARD AND PROTECT GREENDALE**
 
 Proposed by: *President pro tempore wierdo25*
 
@@ -12,7 +12,7 @@ Proposed by: *President pro tempore wierdo25*
 
 **§ 1. TITLE**
 
-(a) This Act shall be known as the “A Bill to Protect Greendale”.
+(a) This Act shall be known as the “A Bill to Empower the National Guard and Protect Greendale”.
 
 **§ 2. ENACTMENT INTO LAW**
 
@@ -42,37 +42,7 @@ Proposed by: *President pro tempore wierdo25*
 
 **CHIEF SPONSOR(S)**:
 
-*The Honorable wierdo25, Senator*
-
-*The Honorable xXKenPlays, Senator*
-
-*The Honorable OreoXapple, Representative*
+*The Honorable wierdo25, President pro tempore*
 
 **CO-SPONSOR(S)**:
-
-*The Honorable Secretary Mega_Goalie16, FDHS Secretary*
-
-*Director Airboeing747, FDHS Secret Service*
-
-*Director RepoAllegiance, FDHS Federal Protective Service*
-
-*Captain airbornefeelings, FDHS Secret Service*
-
-*Captain 5cxrp, FDHS Counter Assault Team*
-
-*Sergeant Mo7tor, FDHS Secret Service*
-
-*Sergeant FidelityWarrior, FDHS Counter Assault Team*
-
-*The Honorable Sergeant F4C3M4N_ACTUAL, FDHS Counter Assault Team/Former Representative*
-
-*The Honorable Agent TipsyKermit, FDHS Counter Assault Team/Former Representative*
-
-*Officer d3av2id1, FDHS Federal Protective Service*
-
-*The Honorable Officer the_rpman, FDHS Federal Protective Service/Former Representative x2*
-
-*Agent Foxtrotgaming, FDHS Secret Service*
-[/quote]
-
 
