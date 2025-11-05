@@ -34,7 +34,13 @@ Proposed by: *President pro tempore wierdo25*
 
 (i) Section 8 subsection a of the National Guard Act of 2022 currently states: “(a) Within Stapleton County, the jurisdiction of the Firestone National Guard shall be the areas shaded red in [this](https://imgur.com/PiQNJUZ) and [this](https://imgur.com/0Sl3Izq) image.”
 
-(ii) Section 8 subsection a of the National Guard Act of 2022 shall now state: “(a) Within Stapleton County, the jurisdiction of the Firestone National Guard shall be the areas shaded red in [this](https://gyazo.com/3bc9371f96bea37f62e0b94029ea4398) image”
+(ii) Section 8 subsection a of the National Guard Act of 2022 shall now state: “(a) Within Stapleton County, the jurisdiction of the Firestone National Guard shall be the areas shaded red in [this](https://gyazo.com/3bc9371f96bea37f62e0b94029ea4398) image.”
+
+(b) Chapter 3 Section 9 of the Firestone Criminal Code shall be amended.
+
+(i) Chapter 3 Section 9 Subsection b20 of the Firestone Criminal Code currently states: "(b20) Lingering/waiting in the blue areas marked in this screenshot without proper clearance and refusing to leave when asked to do so by authorized personnel of the Firestone National Guard."
+
+(ii) Chapter 3 Section 9 Subsection b20 of the Firestone Criminal Code shall now state: "(b20) Lingering/waiting in the blue areas marked in [this](https://gyazo.com/f472c0fab5f9f676cefe842ced76643a) screenshot without proper clearance and refusing to leave when asked to do so by authorized personnel of the Firestone National Guard.
 
 ---
 
