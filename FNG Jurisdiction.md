@@ -26,6 +26,8 @@ Proposed by: *President pro tempore wierdo25*
 
 (a) For the purposes of this Bill, the ‘National Guard Act of 2022’, shall be defined as: https://forums.stateoffirestone.com/t/national-guard-act-of-2022/22640
 
+(b) For the purposes of this Bill, the 'Firestone Criminal Code', 
+
 **§ 5. AMENDMENTS**
 
 (a) Section 8 of the National Guart Act of 2022 shall be amended.
