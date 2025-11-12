@@ -2,7 +2,7 @@
   
 **A BILL TO FIX THE MESS OF THE INFERIOR GOVERNMENTS ACT**
 
-Proposed by: *President pro tempore wierdo25*
+Proposed by: *President pro tempore wierdo25* (for himself)
 
 </div>
 
@@ -12,7 +12,7 @@ Proposed by: *President pro tempore wierdo25*
 
 **§ 1. TITLE**
 
-&nbsp;&nbsp;&nbsp; (a) This Act may be known as an "Act to Clarify Municipal Jurisdictions”.
+&nbsp;&nbsp;&nbsp; (a) This Act may be known as "An Act to Clarify Municipal Jurisdictions”.
 
 **§ 2. ENACTMENT INTO LAW**
 
@@ -35,11 +35,3 @@ Proposed by: *President pro tempore wierdo25*
 ---
 
 *Respectfully submitted to the Congress of the State of Firestone*
-
----
-
-**CHIEF SPONSOR(S)**:
-
-*The Honorable wierdo25, President pro tempore*
-
-**CO-SPONSOR(S)**:
