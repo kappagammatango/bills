@@ -1,8 +1,8 @@
 <div align="center">
 
-**A BILL TO ENABLE THE EXECUTION, HUNTING, AND TRANSPORTING OF FURRIES**
+**A BILL TO ENABLE THE EXECUTION, HUNTING, AND TRANSPORTING OF ANIMALS**
 
-Proposed by: *Senator wierdo25*
+Proposed by: *President pro tempore wierdo25*
 
 </div>
 
@@ -12,9 +12,9 @@ Proposed by: *Senator wierdo25*
 
 **§ 1. TITLE**
 
-&nbsp;&nbsp;&nbsp; (a) This Act shall be known as, and may be cited as, the "Act to Enable the Execution, Hunting, and Transporting of Furries".
+&nbsp;&nbsp;&nbsp; (a) This Act shall be known as, and may be cited as, the "Act to Enable the Execution, Hunting, and Transporting of Animals".
 
-&nbsp;&nbsp;&nbsp; (b) This Act may be cited as the "Anti-Furry Act of 2025".
+&nbsp;&nbsp;&nbsp; (b) This Act may be cited as the "Anti-Animal Act of 2025".
 
 <br/>
 
@@ -38,7 +38,7 @@ Proposed by: *Senator wierdo25*
 
 **§ 5. ANTI-FURRIES**
 
-&nbsp;&nbsp;&nbsp; (a) Any individual meeting any of the following criteria enumerated by the sub-subsections below shall be deemed a 'furry'/'furries' for the purposes of this act. An individual may be deemed a furry for meeting a singular criterion, all of the criteria, or a number of criteria.
+&nbsp;&nbsp;&nbsp; (a) Any individual meeting any of the following criteria enumerated by the sub-subsections below shall be deemed a 'furry'/'furries'/'animal'/'animals' for the purposes of this act. An individual may be deemed a furry/animal for meeting a singular criterion, all of the criteria, or a number of criteria.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (i) Wearing any of the following items:
 
@@ -57,9 +57,9 @@ Proposed by: *Senator wierdo25*
 - https://www.roblox.com/catalog/5891852850/snow-fox-head
 - https://www.roblox.com/catalog/7485988593/White-Mega-Fluffy-Tail
 - https://www.roblox.com/catalog/6472198409/Black-Fluffy-Tail
-- or any other reasonable and similar variant of an item thereof linked above, including 'retextures'/'reskins'/'recolours'/similar alterations
+- or any other reasonable and similar variant of an item thereof linked above, including 'retextures'/'reskins'/'recolors'/similar alterations
 
-&nbsp;&nbsp;&nbsp; (b) All Citizens of the State of Firestone shall be legally protected wherein they violate any of the sections of the Firestone Criminal Code enumerated in the sub-subsections below, whereas the only or all of the actual victim(s) of the aforementioned violation are considered furries, as defined by sub-section (a).
+&nbsp;&nbsp;&nbsp; (b) All Citizens of the State of Firestone shall be legally protected wherein they violate any of the sections of the Firestone Criminal Code enumerated in the sub-subsections below, whereas the only or all of the actual victim(s) of the aforementioned violation are considered furries/animals, as defined by sub-section (a).
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (i) All sections of Chapter 2 (Crimes Against the Person)
 
@@ -85,15 +85,23 @@ Proposed by: *Senator wierdo25*
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (xii) Chapter 4, Section 8 (Solicitation to Commit a Crime), whereas the offence(s) being solicited would otherwise be protected by this subsection
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (xiii) Chapter 4, Section 11 (Aiding and Abetting), whereas the offence(s) being aided/abetted would otherwise be protected by this subsection
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (xiii) Chapter 4, Section 10 (Animal Cruelty), whereas such furries are considered animals by any relevant legislation or instrument
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (xiv) Chapter 4, Section 10 (Animal Cruelty), whereas such furries are considered animals by any relevant legislation or instrument
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (xiv) Chapter 4, Section 11 (Aiding and Abetting), whereas the offence(s) being aided/abetted would otherwise be protected by this subsection
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (xv) Chapter 4, Section 15 (Misconduct), whereas only a furry or furries' rights, freedom, or life were endangered
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (xvi) Chapter 5, Section 2 (Criminal Misuse of a Firearm), whereas the offence(s) in commission would otherwise be protected by this subsection
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (xvi) Chapter 4, Section 26 (Deprivation of Rights Under Color of Law)
 
-&nbsp;&nbsp;&nbsp; (c) Only individuals actively deemed to be furries under subsection (a), and not individuals previously, but no longer, deemed furries under this act, shall be infringed for the purposes of subsection (b)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (xvii) Chapter 5, Section 1 (Unlawful Possession of a Firearm), whereas the offence(s) in commission would otherwise be protected by this subsection
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (xviii) Chapter 5, Section 2 (Criminal Misuse of a Firearm), whereas the offence(s) in commission would otherwise be protected by this subsection
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (xix) Chapter 5, Section 3 (Negligent Misuse of a Firearm), whereas the offence(s) in commission would otherwise be protected by this subsection
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (xx) Chapter 5, Section 4 (Unlawfully Brandishing a Firearm), whereas the offence(s) in commission would otherwise be protected by this subsection
+
+&nbsp;&nbsp;&nbsp; (c) Only individuals actively deemed to be furries or animals under subsection (a), and not individuals previously, but no longer, deemed furries or animals under this act, shall be infringed for the purposes of subsection (b)
 
 &nbsp;&nbsp;&nbsp; (d) Law Enforcement Officers shall be protected from lawsuits relating to their enforcement or non-enforcement of this Act, such as a Law Enforcement Officer committing a False Arrest by arresting for an offence protected by subsection (b).
 
@@ -117,7 +125,7 @@ Proposed by: *Senator wierdo25*
 
 **CHIEF SPONSORS**:
 
-&nbsp;&nbsp;&nbsp; *The Honorable wierdo25, Senator*
+&nbsp;&nbsp;&nbsp; *The Honorable wierdo25, President pro tempore*
 
 **CO-SPONSORS**:
 
