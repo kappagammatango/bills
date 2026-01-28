@@ -26,7 +26,7 @@ Proposed by: *President pro tempore wierdo25* (for himself)
 
 &nbsp;&nbsp;&nbsp; (a) Section 10(g) of the Inferior Governments Act shall be amended by striking the words “highlighted in yellow in this image.”, and inserting in their place the words “highlighted in yellow in [this](https://gyazo.com/1b63142b630e12ca2f890c23980f0da9) image.”.
 
-&&nbsp;&nbsp;&nbsp; (d) Section 11(b)(iii) of the Inferior Governments Act shall be amended by striking the words “over all places marked in red in this image.”, and inserting in their place the words “over all places marked in red in [this](https://gyazo.com/da4dac466b8ca93207c0345297087f4c) image.”.
+&nbsp;&nbsp;&nbsp; (d) Section 11(b)(iii) of the Inferior Governments Act shall be amended by striking the words “over all places marked in red in this image.”, and inserting in their place the words “over all places marked in red in [this](https://gyazo.com/da4dac466b8ca93207c0345297087f4c) image.”.
 
 ---
 
